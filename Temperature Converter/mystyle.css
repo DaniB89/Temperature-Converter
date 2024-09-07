@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+}
+header{
+    background-position: center center;
+    background-size: cover;
+    color: red;
+    text-align: center;
+    height: 400px;
+}
